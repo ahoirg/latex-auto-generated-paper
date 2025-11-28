@@ -1,4 +1,4 @@
-It contains the Latex code of the report named RepEng Project: Empirical Evaluation of JSON Schema Extraction from MongoDB Collections.
+It contains the Latex code of the report named "Empirical Evaluation of JSON Schema Extraction from MongoDB Collections".
 
 ---
 
